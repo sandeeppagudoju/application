@@ -1,2 +1,9 @@
 This is a Git testing file
+<<<<<<< HEAD
 git status
+=======
+git status updated
+Version 3
+git ssasfdasf add .
+asgsdasg
+>>>>>>> Featurebranch
